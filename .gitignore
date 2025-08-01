@@ -1,0 +1,48 @@
+# Node modules (if using Node tools like npm/yarn for assets)
+node_modules/
+
+# Dependency directories
+vendor/
+
+# Environment files (security)
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Cache and session files
+cache/
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# Uploads or user-generated content (optional)
+uploads/
+
+# PHP specific
+*.sql
+*.sqlite
+*.db
+*.zip
+*.tar.gz
+composer.lock
+
+# Build outputs (if any)
+dist/
+build/
+
+# Other
+*.sass-cache
+*.scss-cache
