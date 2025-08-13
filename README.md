@@ -1,34 +1,70 @@
-🌟 Belleza — Fashion Store Website
-📘 Y1S2 IWT Subject Assignment Project
-Belleza is a stylish and fully functional Fashion Store website developed as part of the Year 1, Semester 2 — Internet and Web Technologies (IWT) subject assignment. This project is built using HTML, CSS, JavaScript, and PHP, and focuses on both the user shopping experience and a comprehensive admin management system.
+# 🌟 Belleza — Fashion Store Website  
+📘 **Y1S2 Internet & Web Technologies (IWT) Assignment Project**  
 
-🛍️ User-Side Features
-🏠 Home Page – Modern, responsive design showcasing featured products and promotions.
+Belleza is a **stylish and fully functional Fashion Store website** developed as part of the **Year 1, Semester 2 – IWT subject assignment**.  
+It offers a seamless shopping experience for customers and a **powerful admin management system** for store operators.  
 
-🛒 Cart System – Smooth cart functionality with real-time product management.
+---
 
-🔍 Search & Filter – Easy navigation with dynamic product search and filtering.
+## 🛍️ User-Side Features  
 
-📂 Category Pages – Visually appealing layout with product sorting and filtering.
+### 🏠 **Home Page**
+- Modern, **responsive design** showcasing featured products and promotions.  
 
-ℹ️ About Page – Stylish page detailing the brand story and purpose.
+### 🛒 **Cart System**
+- Smooth cart functionality with **real-time product updates**.  
 
-🔧 Admin Panel Features
-📦 Product Management – Add, update, and delete product listings.
+### 🔍 **Search & Filter**
+- Easy navigation with **dynamic product search** and category-based filtering.  
 
-📊 Sales Dashboard – Monthly and annual income charts, product statistics.
+### 📂 **Category Pages**
+- Visually appealing layout with **sorting and filtering options**.  
 
-📁 Category Control – Create, update, and manage product categories.
+### ℹ️ **About Page**
+- Stylish page sharing the **brand story** and purpose.  
 
-👩‍💼 Customer Support Section – Admin tools for managing inquiries and support.
+---
 
-🔐 Secure Access – Admin login system to protect backend functionalities.
+## 🔧 Admin Panel Features  
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
+### 📦 **Product Management**
+- Add, update, and delete products with ease.  
 
-Backend: PHP
+### 📊 **Sales Dashboard**
+- Monthly & annual income charts, **product statistics** for better decision-making.  
 
-Database: (e.g., MySQL – if applicable)
+### 📁 **Category Control**
+- Create, update, and manage product categories.  
 
-🎓 This project was developed as part of academic coursework and focuses heavily on admin panel design, category management, and elegant UI/UX for both users and administrators.
+### 👩‍💼 **Customer Support**
+- Admin tools for managing **inquiries & support requests**.  
+
+### 🔐 **Secure Access**
+- **Admin login system** to protect backend functionalities.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+- HTML  
+- CSS  
+- JavaScript  
+
+**Backend:**  
+- PHP  
+
+**Database:**  
+- MySQL *(or your chosen DB)*  
+
+---
+
+## 🎓 Academic Context  
+This project was developed as part of **Year 1, Semester 2 – Internet & Web Technologies** coursework.  
+It focuses on **admin panel design, category management, and elegant UI/UX** for both customers and administrators.  
+
+---
+
+## 📜 License  
+This project is for **educational purposes only**.  
+Feel free to modify and adapt with proper credits.  
