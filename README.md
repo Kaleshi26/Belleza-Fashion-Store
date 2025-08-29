@@ -55,7 +55,7 @@ It offers a seamless shopping experience for customers and a **powerful admin ma
 - PHP  
 
 **Database:**  
-- MySQL *(or your chosen DB)*  
+- MySQL   
 
 ---
 
