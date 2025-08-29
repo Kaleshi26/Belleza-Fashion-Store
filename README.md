@@ -68,10 +68,10 @@ It focuses on **admin panel design, category management, and elegant UI/UX** for
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" alt="home" width="500" />
+  <img src="screenshots/home.jpeg" alt="home" width="500" />
 </p>
 <p align="center">
-  <img src="screenshots/admin dashboard.jpeg" alt="admin dashboard" width="350" />
+  <img src="screenshots/admin dashboard.jpeg" alt="admin dashboard" width="400" height =="350"  />
   <img src="screenshots/dashbaord.jpeg" alt="dashbaord" width="350" />
   <img src="screenshots/add products.jpeg" alt="add products" width="350" />
 </p>
