@@ -65,6 +65,18 @@ It focuses on **admin panel design, category management, and elegant UI/UX** for
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" alt="home" width="500" />
+</p>
+<p align="center">
+  <img src="screenshots/admin dashboard.png" alt="admin dashboard" width="350" />
+  <img src="screenshots/dashbaord.png" alt="dashbaord" width="350" />
+  <img src="screenshots/add products.png" alt="add products" width="350" />
+</p>
+
+
 ## 📜 License  
 This project is for **educational purposes only**.  
 Feel free to modify and adapt with proper credits.  
