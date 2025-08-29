@@ -72,8 +72,8 @@ It focuses on **admin panel design, category management, and elegant UI/UX** for
 </p>
 <p align="center">
   <img src="screenshots/admin dashboard.jpeg" alt="admin dashboard" width="450" height =="400"  />
-  <img src="screenshots/dashbaord.jpeg" alt="dashbaord" width="450" height =="400" />
-  <img src="screenshots/add products.jpeg" alt="add products" width="450" height =="400" />
+  <img src="screenshots/dashbaord.jpeg" alt="dashbaord" width="300" height =="400" />
+  <img src="screenshots/add products.jpeg" alt="add products" width="300" height =="400" />
 </p>
 
 
